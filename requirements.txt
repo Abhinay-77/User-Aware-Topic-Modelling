@@ -1,0 +1,22 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pymongo==4.6.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic[email]==2.5.0
+python-jose[cryptography]==3.3.0
+PyJWT==2.8.0
+bcrypt==4.1.1
+pandas==2.1.3
+numpy==1.26.2
+python-multipart==0.0.6
+
+# NLP Module dependencies (optional, falls back gracefully if not available)
+# transformers>=4.35.0  # For IndicTrans2/NLLB models
+# torch>=2.0.0  # Required by transformers
+
+# NOTE:
+# The full ML stack (BERTopic / Transformers / Torch / HDBSCAN) is optional and
+# can be hard to install on Windows without build tools. The backend code falls
+# back to mock data if ML packages are missing.
+# To enable full ML features, install `requirements-ml.txt`.
