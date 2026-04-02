@@ -47,7 +47,7 @@ User-Aware-Topic-Modelling-main/
 │   └── package.json
 ├── data/                    # Sample datasets and uploads
 ├── models/                  # Persistent model storage
-├── UATM_Final_Project_Report.docx  # Full-length academic documentation
+├── Major Project documnetation.docx  # Full-length academic documentation
 ├── requirements.txt         # Project dependencies
 └── README.md                # Project documentation
 ```
@@ -93,7 +93,7 @@ User-Aware-Topic-Modelling-main/
    ```
 
 ## 📚 Documentation
-The project includes a comprehensive 40+ page documentation file: [UATM_Final_Project_Report.docx](UATM_Final_Project_Report.docx). This report covers the literature survey, system design, methodology, implementation, and detailed results of the normalization and topic modeling components.
+The project includes a comprehensive 65 page documentation file: [Major Project documnetation.docx](Major Project documentation.docx). This report covers the literature survey, system design, methodology, implementation, and detailed results of the normalization and topic modeling components.
 
 ## 📜 License
 This project is developed as part of the Final Year Project requirements at CVR College of Engineering.
